@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.x {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 45px;
+  background-color: white;
+  box-shadow: 5px 5px 5px rgba(0 0 0 0.7px);
+  height: 100vh;
+}
+.bgColor {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 66vh;
+  width: 66vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  color: #0f172a;
+  font-size: 32px;
+  font-family: Bree Serif;
+}
+p {
+  color: #334155;
+  font-size: 12px;
+  font-family: Bree Serif;
+}
+button {
+  background-color: white;
+  color: #1e293b;
+  font-size: 19px;
+  border-radius: 7px;
+  border-style: solid;
+  border-width: 0px;
+  font-family: Bree Serif;
+}
+.para {
+  color: #334155;
+  font-size: 10px;
+  font-family: Bree Serif;
+}
